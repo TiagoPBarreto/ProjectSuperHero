@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <color name="superHero_item_name">#738927CF</color>
+
+    <color name="superhero_stat_Intelligence">#25E42C</color>
+    <color name="superhero_stat_Strength">#F41E0F</color>
+    <color name="superhero_stat_Durability">#3F51B5</color>
+    <color name="superhero_stat_Power">#FFEB3B</color>
+    <color name="superhero_stat_Combat">#9C27B0</color>
+    <color name="superhero_stat_Speed">#FF5722</color>
+</resources>
